@@ -1,24 +1,21 @@
 # CODES
 
-A Repository where you can add codes for others ;)
+Example code untuk bot discord disertai tutorialnya
 
 <br/>
-  
-***
 
-## [Discord Server 😎](https://discord.gg/homely)
+## DISCORD SERVER
 <a href="https://discord.gg/homely"><img src="https://discord.com/api/guilds/809075831368450048/widget.png?style=banner4"></a>
 
-***
-
-## SUPPORT ME AND MILRATO DEVELOPMENT
-
-> You can always Support me by inviting one of my **own Discord Bots**
-
-[![2021's best Music Bot | Lava Music](https://cdn.discordapp.com/attachments/748533465972080670/817088638780440579/test3.png)](https://lava.milrato.dev)
-[![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://musicium.musicium.dev)
-[![Milrato Multi Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://milrato.milrato.dev)
+<br/>
 
 # Credits
 
-> If consider using this Bot, make sure to credit me!
+• **_[Tomato6966](https://github.com/Tomato6966)_** <br/>
+• **_[Milrato Development](https://github.com/Milrato-Development)_**
+
+<br/>
+
+## SUPPORT ME
+
+<p><a href="https://www.buymeacoffee.com/nqbill"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nqbill" /></a><a href="https://ko-fi.com/nqbill"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="nqbill" /></a></p><br><br>
