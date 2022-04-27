@@ -6,8 +6,8 @@ A Repository where you can add codes for others ;)
   
 ***
 
-## [Discord Server 😎](https://discord.gg/milrato) | [Website](https://milrato.dev)
-<a href="https://discord.gg/milrato"><img src="https://discord.com/api/guilds/773668217163218944/widget.png?style=banner2"></a>
+## [Discord Server 😎](https://discord.gg/homely)
+<a href="https://discord.gg/homely"><img src="https://discord.com/api/guilds/809075831368450048/widget.png?style=banner4"></a>
 
 ***
 
